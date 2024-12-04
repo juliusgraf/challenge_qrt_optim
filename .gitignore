@@ -1,0 +1,10 @@
+# Ignore datasets
+*.csv
+*.json
+benchmark_and_extras/
+best_model.pth
+Y_test_random_sEE2QeA.csv
+Y_train_1rknArQ.csv
+Y_train_supp.csv
+Test_Data/
+Train_Data/
